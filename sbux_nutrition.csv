@@ -1,0 +1,526 @@
+drink_name,type,size,calories,fat,cholesterol,sodium,carb,sugar,protein,caffeine
+Caffè Americano,Hot Coffees,Short,5,0,0,5,1,0,0,75
+Caffè Americano,Hot Coffees,Tall,10,0,0,10,1,0,1,150
+Caffè Americano,Hot Coffees,Grande,15,0,0,10,2,0,1,225
+Caffè Americano,Hot Coffees,Venti,15,0,0,15,3,0,1,300
+Blonde Roast,Hot Coffees,Short,5,0,0,5,0,0,0,180
+Blonde Roast,Hot Coffees,Tall,5,0,0,10,0,0,0,270
+Blonde Roast,Hot Coffees,Grande,5,0,0,10,0,0,1,360
+Blonde Roast,Hot Coffees,Venti,5,0,0,10,0,0,1,475
+Caffè Misto,Hot Coffees,Short,50,2,10,50,5,5,4,75
+Caffè Misto,Hot Coffees,Tall,80,3,15,80,8,8,5,115
+Caffè Misto,Hot Coffees,Grande,110,4,15,100,10,10,7,150
+Caffè Misto,Hot Coffees,Venti,130,5,20,130,13,13,9,195
+Featured Starbucks® Dark Roast Coffee,Hot Coffees,Short,5,0,0,5,0,0,0,130
+Featured Starbucks® Dark Roast Coffee,Hot Coffees,Tall,5,0,0,10,0,0,0,195
+Featured Starbucks® Dark Roast Coffee,Hot Coffees,Grande,5,0,0,10,0,0,1,260
+Featured Starbucks® Dark Roast Coffee,Hot Coffees,Venti,5,0,0,10,0,0,1,340
+Pike Place® Roast,Hot Coffees,Short,5,0,0,5,0,0,0,155
+Pike Place® Roast,Hot Coffees,Tall,5,0,0,5,0,0,0,235
+Pike Place® Roast,Hot Coffees,Grande,5,0,0,10,0,0,1,310
+Pike Place® Roast,Hot Coffees,Venti,5,0,0,10,0,0,1,410
+Decaf Pike Place® Roast,Hot Coffees,Short,5,0,0,5,0,0,0,15
+Decaf Pike Place® Roast,Hot Coffees,Tall,5,0,0,5,0,0,0,20
+Decaf Pike Place® Roast,Hot Coffees,Grande,5,0,0,10,0,0,1,25
+Decaf Pike Place® Roast,Hot Coffees,Venti,5,0,0,10,0,0,1,30
+Cappuccino,Hot Coffees,Short,80,3,10,70,8,7,5,75
+Cappuccino,Hot Coffees,Tall,90,3.5,15,80,9,8,6,75
+Cappuccino,Hot Coffees,Grande,120,4,15,100,12,10,8,150
+Cappuccino,Hot Coffees,Venti,150,6,25,135,16,14,10,150
+Espresso,Hot Coffees,Solo,5,0,0,0,1,0,0,75
+Espresso,Hot Coffees,Doppio,10,0,0,0,2,0,1,150
+Espresso,Hot Coffees,Triple,15,0,0,0,3,0,2,225
+Espresso,Hot Coffees,Quad,20,0,0,0,4,0,2,300
+Espresso Con Panna,Hot Coffees,Solo,30,2.5,10,0,2,1,0,75
+Espresso Con Panna,Hot Coffees,Doppio,35,2.5,10,0,3,1,1,150
+Espresso Con Panna,Hot Coffees,Triple,40,2.5,10,0,4,1,1,225
+Espresso Con Panna,Hot Coffees,Quad,50,2.5,10,0,5,1,2,300
+Flat White,Hot Coffees,Short,110,5,15,70,9,8,6,130
+Flat White,Hot Coffees,Tall,170,9,25,115,14,13,9,130
+Flat White,Hot Coffees,Grande,220,11,35,150,18,17,12,195
+Flat White,Hot Coffees,Venti,290,15,45,200,24,22,15,195
+Almondmilk Honey Flat White with Starbucks® Blonde Espresso,Hot Coffees,Short,80,2.5,0,60,15,12,1,150
+Almondmilk Honey Flat White with Starbucks® Blonde Espresso,Hot Coffees,Tall,120,4,0,100,22,18,2,150
+Almondmilk Honey Flat White with Starbucks® Blonde Espresso,Hot Coffees,Grande,170,5,0,135,30,24,3,225
+Almondmilk Honey Flat White with Starbucks® Blonde Espresso,Hot Coffees,Venti,210,7,0,180,38,31,3,225
+Pumpkin Spice Latte,Hot Coffees,Short,210,8,35,120,27,26,7,75
+Pumpkin Spice Latte,Hot Coffees,Tall,300,11,45,190,40,39,11,75
+Pumpkin Spice Latte,Hot Coffees,Grande,380,14,55,240,52,50,14,150
+Pumpkin Spice Latte,Hot Coffees,Venti,470,16,60,300,66,64,18,150
+Oatmilk Honey Latte,Hot Coffees,Short,140,5,0,85,22,14,2,75
+Oatmilk Honey Latte,Hot Coffees,Tall,200,7,0,120,32,21,3,75
+Oatmilk Honey Latte,Hot Coffees,Grande,270,10,0,0,42,28,4,150
+Oatmilk Honey Latte,Hot Coffees,Venti,360,13,0,210,56,36,6,150
+Oatmilk Honey Latte with Starbucks® Blonde Espresso,Hot Coffees,Short,140,5,0,85,22,14,2,85
+Oatmilk Honey Latte with Starbucks® Blonde Espresso,Hot Coffees,Tall,200,7,0,120,32,21,3,85
+Oatmilk Honey Latte with Starbucks® Blonde Espresso,Hot Coffees,Grande,270,10,0,160,42,28,4,170
+Oatmilk Honey Latte with Starbucks® Blonde Espresso,Hot Coffees,Venti,360,13,0,210,56,36,6,170
+Coconutmilk Cascara Latte with Starbucks® Blonde Espresso,Hot Coffees,Short,70,3.5,0,80,7,6,1,85
+Coconutmilk Cascara Latte with Starbucks® Blonde Espresso,Hot Coffees,Tall,100,6,0,125,11,9,1,85
+Coconutmilk Cascara Latte with Starbucks® Blonde Espresso,Hot Coffees,Grande,130,8,0,160,14,12,1,170
+Coconutmilk Cascara Latte with Starbucks® Blonde Espresso,Hot Coffees,Venti,170,10,0,210,18,15,2,170
+Caffè Latte,Hot Coffees,Short,100,3.5,15,85,10,9,6,75
+Caffè Latte,Hot Coffees,Tall,150,6,25,135,15,14,10,75
+Caffè Latte,Hot Coffees,Grande,190,7,30,170,19,18,13,150
+Caffè Latte,Hot Coffees,Venti,250,9,40,220,24,23,16,150
+Cinnamon Dolce Latte,Hot Coffees,Short,190,8,30,80,23,21,6,75
+Cinnamon Dolce Latte,Hot Coffees,Tall,270,11,40,130,34,32,9,75
+Cinnamon Dolce Latte,Hot Coffees,Grande,340,13,50,160,44,41,12,150
+Cinnamon Dolce Latte,Hot Coffees,Venti,420,15,55,210,55,52,15,150
+Starbucks Reserve® Latte,Hot Coffees,Short,110,6,15,75,9,8,6,135
+Starbucks Reserve® Latte,Hot Coffees,Tall,180,9,30,120,14,13,9,135
+Starbucks Reserve® Latte,Hot Coffees,Grande,230,12,35,160,19,18,12,135
+Starbucks Reserve® Latte,Hot Coffees,Venti,290,15,45,200,24,22,15,265
+Starbucks Reserve® Hazelnut Bianco Latte,Hot Coffees,Short,190,9,20,80,21,18,7,135
+Starbucks Reserve® Hazelnut Bianco Latte,Hot Coffees,Tall,310,15,30,130,33,30,11,135
+Starbucks Reserve® Hazelnut Bianco Latte,Hot Coffees,Grande,380,18,35,160,40,36,13,135
+Starbucks Reserve® Hazelnut Bianco Latte,Hot Coffees,Venti,520,25,50,220,55,50,19,200
+Starbucks® Blonde Vanilla Latte,Hot Coffees,Short,130,3.5,15,80,18,17,6,85
+Starbucks® Blonde Vanilla Latte,Hot Coffees,Tall,200,5,20,125,28,27,9,85
+Starbucks® Blonde Vanilla Latte,Hot Coffees,Grande,250,6,25,150,37,35,12,170
+Starbucks® Blonde Vanilla Latte,Hot Coffees,Venti,320,9,35,200,46,44,15,170
+Cocoa Cloud Macchiato* (Contains eggs),Hot Coffees,Short,140,4,15,125,22,19,6,75
+Cocoa Cloud Macchiato* (Contains eggs),Hot Coffees,Tall,220,6,20,190,32,29,9,75
+Cocoa Cloud Macchiato* (Contains eggs),Hot Coffees,Grande,300,7,30,270,46,41,12,150
+Cocoa Cloud Macchiato* (Contains eggs),Hot Coffees,Venti,360,9,35,320,54,49,15,150
+Caramel Cloud Macchiato* (Contains eggs),Hot Coffees,Short,140,4,15,95,20,19,6,75
+Caramel Cloud Macchiato* (Contains eggs),Hot Coffees,Tall,210,6,20,150,31,28,9,75
+Caramel Cloud Macchiato* (Contains eggs),Hot Coffees,Grande,280,7,25,200,44,39,11,150
+Caramel Cloud Macchiato* (Contains eggs),Hot Coffees,Venti,350,9,35,260,53,47,15,150
+Caramel Macchiato,Hot Coffees,Short,120,4,15,80,16,15,5,75
+Caramel Macchiato,Hot Coffees,Tall,190,6,20,120,26,25,8,75
+Caramel Macchiato,Hot Coffees,Grande,250,7,25,150,35,33,10,150
+Caramel Macchiato,Hot Coffees,Venti,310,9,35,190,44,42,13,150
+Espresso Macchiato,Hot Coffees,Solo,10,0,0,0,1,0,0,75
+Espresso Macchiato,Hot Coffees,Doppio,15,0,0,0,2,0,1,150
+Espresso Macchiato,Hot Coffees,Triple,20,0,0,0,3,0,1,225
+Espresso Macchiato,Hot Coffees,Quad,25,0,0,0,4,0,2,300
+Salted Caramel Mocha,Hot Coffees,Short,260,10,35,210,36,31,7,90
+Salted Caramel Mocha,Hot Coffees,Tall,370,14,45,290,53,46,10,95
+Salted Caramel Mocha,Hot Coffees,Grande,470,16,50,370,68,59,13,175
+Salted Caramel Mocha,Hot Coffees,Venti,570,19,60,450,84,73,17,185
+Caffè Mocha,Hot Coffees,Short,200,9,30,75,22,18,7,90
+Caffè Mocha,Hot Coffees,Tall,290,13,40,120,34,28,11,95
+Caffè Mocha,Hot Coffees,Grande,360,15,50,150,44,35,13,175
+Caffè Mocha,Hot Coffees,Venti,450,18,55,190,55,45,17,185
+Starbucks Reserve® Dark Chocolate Mocha,Hot Coffees,Short,150,6,15,70,19,16,6,135
+Starbucks Reserve® Dark Chocolate Mocha,Hot Coffees,Tall,240,10,25,115,29,25,10,135
+Starbucks Reserve® Dark Chocolate Mocha,Hot Coffees,Grande,320,14,35,150,38,33,13,135
+Starbucks Reserve® Dark Chocolate Mocha,Hot Coffees,Venti,400,17,45,180,47,40,16,265
+White Chocolate Mocha,Hot Coffees,Short,230,10,30,125,28,27,7,75
+White Chocolate Mocha,Hot Coffees,Tall,340,14,45,190,42,41,11,75
+White Chocolate Mocha,Hot Coffees,Grande,430,18,55,250,55,53,14,150
+White Chocolate Mocha,Hot Coffees,Venti,530,21,60,320,69,67,19,150
+Chai Latte,Hot Teas,Short,120,2,10,55,22,21,4,50
+Chai Latte,Hot Teas,Tall,190,3.5,15,90,34,32,6,70
+Chai Latte,Hot Teas,Grande,240,4.5,20,115,45,42,8,95
+Chai Latte,Hot Teas,Venti,310,6,25,150,56,53,10,120
+Chai Tea,Hot Teas,Short,0,0,0,0,0,0,0,40
+Chai Tea,Hot Teas,Tall,0,0,0,0,0,0,0,40
+Chai Tea,Hot Teas,Grande,0,0,0,0,0,0,0,40
+Chai Tea,Hot Teas,Venti,0,0,0,0,0,0,0,40
+Earl Grey Tea,Hot Teas,Short,0,0,0,0,0,0,0,40
+Earl Grey Tea,Hot Teas,Tall,0,0,0,0,0,0,0,40
+Earl Grey Tea,Hot Teas,Grande,0,0,0,0,0,0,0,40
+Earl Grey Tea,Hot Teas,Venti,0,0,0,0,0,0,0,40
+London Fog Tea Latte,Hot Teas,Short,90,2,10,55,15,15,4,40
+London Fog Tea Latte,Hot Teas,Tall,140,3,15,80,22,22,5,40
+London Fog Tea Latte,Hot Teas,Grande,180,4,15,105,29,29,7,40
+London Fog Tea Latte,Hot Teas,Venti,230,5,20,135,37,37,9,40
+Royal English Breakfast Tea,Hot Teas,Short,0,0,0,0,0,0,0,40
+Royal English Breakfast Tea,Hot Teas,Tall,0,0,0,0,0,0,0,40
+Royal English Breakfast Tea,Hot Teas,Grande,0,0,0,0,0,0,0,40
+Royal English Breakfast Tea,Hot Teas,Venti,0,0,0,0,0,0,0,40
+Royal English Breakfast Tea Latte,Hot Teas,Short,80,2,10,55,11,11,4,40
+Royal English Breakfast Tea Latte,Hot Teas,Tall,110,3,15,80,16,16,5,40
+Royal English Breakfast Tea Latte,Hot Teas,Grande,150,4,15,105,21,21,7,40
+Royal English Breakfast Tea Latte,Hot Teas,Venti,190,5,20,135,27,27,9,40
+Rev Up Brewed Wellness Tea,Hot Teas,Short,0,0,0,0,0,0,0,40
+Rev Up Brewed Wellness Tea,Hot Teas,Tall,0,0,0,0,0,0,0,40
+Rev Up Brewed Wellness Tea,Hot Teas,Grande,0,0,0,0,0,0,0,40
+Rev Up Brewed Wellness Tea,Hot Teas,Venti,0,0,0,0,0,0,0,40
+Emperor’s Clouds & Mist®,Hot Teas,Short,0,0,0,0,0,0,0,1
+Emperor’s Clouds & Mist®,Hot Teas,Tall,0,0,0,0,0,0,0,1
+Emperor’s Clouds & Mist®,Hot Teas,Grande,0,0,0,0,0,0,0,16
+Emperor’s Clouds & Mist®,Hot Teas,Venti,0,0,0,0,0,0,0,16
+Matcha Green Tea Latte,Hot Teas,Short,110,3.5,15,80,14,14,6,30
+Matcha Green Tea Latte,Hot Teas,Tall,190,5,20,125,25,24,10,55
+Matcha Green Tea Latte,Hot Teas,Grande,240,7,25,160,34,32,12,80
+Matcha Green Tea Latte,Hot Teas,Venti,320,9,35,210,45,43,16,110
+Honey Citrus Mint Tea,Hot Teas,Short,60,0,0,5,16,15,0,16
+Honey Citrus Mint Tea,Hot Teas,Tall,80,0,0,10,20,19,0,16
+Honey Citrus Mint Tea,Hot Teas,Grande,130,0,0,10,32,30,0,16
+Honey Citrus Mint Tea,Hot Teas,Venti,150,0,0,15,37,34,0,16
+Jade Citrus Mint® Brewed Tea,Hot Teas,Short,0,0,0,0,0,0,0,16
+Jade Citrus Mint® Brewed Tea,Hot Teas,Tall,0,0,0,0,0,0,0,16
+Jade Citrus Mint® Brewed Tea,Hot Teas,Grande,0,0,0,0,0,0,0,40
+Jade Citrus Mint® Brewed Tea,Hot Teas,Venti,0,0,0,0,0,0,0,40
+Mint Majesty®,Hot Teas,Short,0,0,0,0,0,0,0,0
+Mint Majesty®,Hot Teas,Tall,0,0,0,0,0,0,0,0
+Mint Majesty®,Hot Teas,Grande,0,0,0,0,0,0,0,0
+Mint Majesty®,Hot Teas,Venti,0,0,0,0,0,0,0,0
+Peach Tranquility®,Hot Teas,Short,0,0,0,0,0,0,0,0
+Peach Tranquility®,Hot Teas,Tall,0,0,0,0,0,0,0,0
+Peach Tranquility®,Hot Teas,Grande,0,0,0,0,0,0,0,0
+Peach Tranquility®,Hot Teas,Venti,0,0,0,0,0,0,0,0
+Salted Caramel Hot Chocolate,Hot Drinks,Short,240,9,30,180,34,30,6,15
+Salted Caramel Hot Chocolate,Hot Drinks,Tall,350,13,35,250,50,45,9,20
+Salted Caramel Hot Chocolate,Hot Drinks,Grande,460,16,50,350,66,59,13,25
+Salted Caramel Hot Chocolate,Hot Drinks,Venti,550,18,55,420,81,73,16,35
+Hot Chocolate,Hot Drinks,Kids,190,9,25,65,22,18,6,15
+Hot Chocolate,Hot Drinks,Short,190,9,25,65,22,18,6,15
+Hot Chocolate,Hot Drinks,Tall,270,12,35,105,32,27,10,20
+Hot Chocolate,Hot Drinks,Grande,370,15,45,160,44,38,14,25
+Hot Chocolate,Hot Drinks,Venti,450,18,55,200,55,47,17,35
+White Hot Chocolate,Hot Drinks,Kids,190,6,15,130,27,27,7,0
+White Hot Chocolate,Hot Drinks,Short,240,11,35,135,28,28,8,0
+White Hot Chocolate,Hot Drinks,Tall,340,15,45,200,42,42,12,0
+White Hot Chocolate,Hot Drinks,Grande,440,19,55,260,55,55,15,0
+White Hot Chocolate,Hot Drinks,Venti,540,22,65,330,69,69,19,0
+Caramel Apple Spice,Hot Drinks,Kids,220,6,20,20,41,37,0,0
+Caramel Apple Spice,Hot Drinks,Short,220,6,20,20,41,37,0,0
+Caramel Apple Spice,Hot Drinks,Tall,300,7,20,25,60,55,1,0
+Caramel Apple Spice,Hot Drinks,Grande,380,8,25,30,77,71,1,0
+Caramel Apple Spice,Hot Drinks,Venti,460,8,25,35,97,88,1,0
+Steamed Apple Juice,Hot Drinks,Kids,120,0,0,10,30,27,0,0
+Steamed Apple Juice,Hot Drinks,Short,120,0,0,10,30,27,0,0
+Steamed Apple Juice,Hot Drinks,Tall,170,0,0,15,44,39,0,0
+Steamed Apple Juice,Hot Drinks,Grande,220,0,0,20,55,50,0,0
+Steamed Apple Juice,Hot Drinks,Venti,280,0,0,25,69,62,0,0
+Pumpkin Spice Crème,Hot Drinks,Kids,210,9,35,130,27,27,8,0
+Pumpkin Spice Crème,Hot Drinks,Short,210,9,35,130,27,27,8,0
+Pumpkin Spice Crème,Hot Drinks,Tall,310,12,45,190,40,40,11,0
+Pumpkin Spice Crème,Hot Drinks,Grande,400,14,55,250,53,52,15,0
+Pumpkin Spice Crème,Hot Drinks,Venti,480,16,65,320,66,65,19,0
+Cinnamon Dolce Crème,Hot Drinks,Tall,280,12,40,140,34,33,10,0
+Cinnamon Dolce Crème,Hot Drinks,Grande,350,14,50,180,44,43,13,0
+Cinnamon Dolce Crème,Hot Drinks,Venti,430,16,60,230,55,54,16,0
+Steamed Milk,Hot Drinks,Kids,100,4,15,95,10,10,7,0
+Steamed Milk,Hot Drinks,Short,100,4,15,95,10,10,7,0
+Steamed Milk,Hot Drinks,Tall,160,6,25,150,15,15,10,0
+Steamed Milk,Hot Drinks,Grande,200,8,30,190,19,19,13,0
+Steamed Milk,Hot Drinks,Venti,260,10,40,240,25,25,17,0
+Vanilla Crème,Hot Drinks,Kids,180,9,35,90,20,19,6,0
+Vanilla Crème,Hot Drinks,Short,180,9,35,90,20,19,6,0
+Vanilla Crème,Hot Drinks,Tall,260,12,45,140,30,29,10,0
+Vanilla Crème,Hot Drinks,Grande,330,14,55,180,39,38,13,0
+Vanilla Crème,Hot Drinks,Venti,400,16,65,230,48,48,16,0
+Pumpkin Spice Coffee Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,290,11,35,200,46,45,4,70
+Pumpkin Spice Coffee Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,420,14,45,280,67,66,6,100
+Pumpkin Spice Coffee Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,500,16,50,360,83,81,7,135
+Salted Caramel Mocha Coffee Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,290,11,35,260,45,43,4,65
+Salted Caramel Mocha Coffee Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,420,15,45,360,67,63,5,100
+Salted Caramel Mocha Coffee Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,520,17,50,450,85,81,7,135
+Mocha Cookie Crumble Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,340,16,40,200,46,41,4,65
+Mocha Cookie Crumble Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,470,23,55,260,63,57,6,95
+Mocha Cookie Crumble Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,590,26,60,360,84,76,8,130
+Caramel Ribbon Crunch Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,330,15,45,200,46,43,4,60
+Caramel Ribbon Crunch Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,470,20,65,280,66,62,5,85
+Caramel Ribbon Crunch Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,570,22,70,380,86,80,7,115
+Espresso Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,140,1.5,5,140,29,28,2,125
+Espresso Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,210,2.5,5,210,43,42,3,155
+Espresso Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,290,4,10,280,58,56,4,185
+Caffè Vanilla Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,280,10,30,160,45,44,3,65
+Caffè Vanilla Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,400,14,45,230,65,0,4,95
+Caffè Vanilla Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,510,16,50,310,86,84,6,125
+Coffee Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,160,2.5,10,160,31,31,3,65
+Coffee Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,230,3,10,230,46,45,3,95
+Coffee Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,310,5,15,300,60,59,5,125
+Caramel Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,260,11,35,160,38,38,3,60
+Caramel Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,370,15,45,230,57,55,4,90
+Caramel Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,470,16,50,310,74,73,6,120
+Mocha Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,240,9,25,150,37,35,4,70
+Mocha Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,370,15,45,220,55,52,5,100
+Mocha Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,460,17,50,300,72,69,7,130
+Java Chip Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,320,13,30,180,46,43,4,75
+Java Chip Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,440,18,45,260,65,60,6,105
+Java Chip Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,560,21,50,350,87,80,8,145
+White Chocolate Mocha Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,280,11,30,180,41,40,4,65
+White Chocolate Mocha Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,410,16,45,260,63,62,5,95
+White Chocolate Mocha Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,500,18,50,350,79,77,7,125
+Pumpkin Spice Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,250,11,35,190,32,32,5,0
+Pumpkin Spice Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,350,15,50,270,48,48,6,0
+Pumpkin Spice Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,450,18,55,370,63,63,9,0
+Salted Caramel Mocha Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,280,12,35,280,39,37,5,5
+Salted Caramel Mocha Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,400,17,50,380,55,53,6,10
+Salted Caramel Mocha Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,480,19,55,470,69,66,8,10
+Chocolate Cookie Crumble Crème Frappuccino®,Frappuccino® Blended Beverages,Tall,330,17,45,210,39,34,5,10
+Chocolate Cookie Crumble Crème Frappuccino®,Frappuccino® Blended Beverages,Grande,450,24,60,290,54,48,7,15
+Chocolate Cookie Crumble Crème Frappuccino®,Frappuccino® Blended Beverages,Venti,550,27,65,380,70,63,9,20
+Caramel Ribbon Crunch Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,300,15,45,200,37,34,4,0
+Caramel Ribbon Crunch Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,420,21,65,270,52,48,5,0
+Caramel Ribbon Crunch Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,500,23,75,370,66,61,7,0
+Strawberry Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,250,11,35,160,33,33,3,0
+Strawberry Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,370,15,45,240,53,52,5,0
+Strawberry Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,460,17,50,320,67,66,7,0
+Chai Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,230,11,35,160,30,30,4,20
+Chai Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,340,15,45,230,47,46,5,40
+Chai Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,410,17,55,320,59,58,7,40
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,290,14,35,190,36,33,5,10
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,400,19,45,270,52,48,7,15
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,510,23,55,360,69,63,9,20
+Matcha Green Tea Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,300,11,35,170,44,44,4,50
+Matcha Green Tea Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,410,15,50,240,63,62,6,70
+Matcha Green Tea Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,520,17,55,320,82,80,8,95
+Vanilla Bean Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,260,11,35,170,36,35,4,0
+Vanilla Bean Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,370,15,50,250,54,53,5,0
+Vanilla Bean Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,460,17,55,330,70,69,7,0
+White Chocolate Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Tall,250,12,35,180,32,32,4,0
+White Chocolate Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Grande,380,17,50,280,50,50,6,0
+White Chocolate Crème Frappuccino® Blended Beverage,Frappuccino® Blended Beverages,Venti,450,19,55,360,61,61,8,0
+Pumpkin Cream Cold Brew,Cold Coffees,Tall,140,7,25,35,18,17,2,145
+Pumpkin Cream Cold Brew,Cold Coffees,Grande,250,12,40,55,31,31,3,185
+Pumpkin Cream Cold Brew,Cold Coffees,Venti,310,15,50,70,40,40,3,275
+Pumpkin Cream Cold Brew,Cold Coffees,Trenta,360,17,55,80,48,48,4,315
+Cold Brew with Cinnamon Almondmilk Foam,Cold Coffees,Tall,30,1,0,25,6,5,0,155
+Cold Brew with Cinnamon Almondmilk Foam,Cold Coffees,Grande,40,1,0,35,7,6,1,205
+Cold Brew with Cinnamon Almondmilk Foam,Cold Coffees,Venti,40,1,0,40,7,6,1,310
+Cold Brew with Cinnamon Almondmilk Foam,Cold Coffees,Trenta,45,1,0,45,8,7,1,360
+Cold Brew with Dark Cocoa Almondmilk Foam,Cold Coffees,Tall,30,1,0,25,4,3,1,160
+Cold Brew with Dark Cocoa Almondmilk Foam,Cold Coffees,Grande,40,1.5,0,0,6,4,1,210
+Cold Brew with Dark Cocoa Almondmilk Foam,Cold Coffees,Venti,40,1.5,0,0,6,4,1,310
+Cold Brew with Dark Cocoa Almondmilk Foam,Cold Coffees,Trenta,50,1.5,0,50,7,5,1,365
+Cold Brew with Cinnamon Oatmilk Foam,Cold Coffees,Tall,40,1,0,25,6,5,1,155
+Cold Brew with Cinnamon Oatmilk Foam,Cold Coffees,Grande,50,1.5,0,30,7,6,1,205
+Cold Brew with Cinnamon Oatmilk Foam,Cold Coffees,Venti,50,1.5,0,35,7,6,1,310
+Cold Brew with Cinnamon Oatmilk Foam,Cold Coffees,Trenta,60,1.5,0,40,8,6,1,360
+Salted Caramel Cream Cold Brew,Cold Coffees,Tall,160,10,30,240,17,17,1,140
+Salted Caramel Cream Cold Brew,Cold Coffees,Grande,230,14,45,330,23,23,2,185
+Salted Caramel Cream Cold Brew,Cold Coffees,Venti,280,17,55,400,30,30,3,275
+Salted Caramel Cream Cold Brew,Cold Coffees,Trenta,340,21,65,490,36,36,3,320
+Starbucks Reserve® Cold Brew,Cold Coffees,Tall,0,0,0,10,0,0,0,150
+Starbucks Reserve® Cold Brew,Cold Coffees,Grande,5,0,0,15,0,0,0,200
+Starbucks Reserve® Cold Brew,Cold Coffees,Venti,5,0,0,20,0,0,0,300
+Starbucks® Cold Brew Coffee,Cold Coffees,Tall,5,0,0,10,0,0,0,155
+Starbucks® Cold Brew Coffee,Cold Coffees,Grande,5,0,0,15,0,0,0,205
+Starbucks® Cold Brew Coffee,Cold Coffees,Venti,5,0,0,20,0,0,0,310
+Starbucks® Cold Brew Coffee,Cold Coffees,Trenta,5,0,0,25,0,0,0,360
+Vanilla Sweet Cream Cold Brew,Cold Coffees,Tall,90,5,15,20,9,9,1,145
+Vanilla Sweet Cream Cold Brew,Cold Coffees,Grande,110,5,15,20,14,14,1,185
+Vanilla Sweet Cream Cold Brew,Cold Coffees,Venti,200,11,35,35,23,23,2,275
+Vanilla Sweet Cream Cold Brew,Cold Coffees,Trenta,210,11,40,45,26,26,2,320
+Starbucks® Cold Brew Coffee with Milk,Cold Coffees,Tall,25,1,5,30,2,2,2,155
+Starbucks® Cold Brew Coffee with Milk,Cold Coffees,Grande,35,1.5,5,40,3,3,2,205
+Starbucks® Cold Brew Coffee with Milk,Cold Coffees,Venti,60,2,10,65,5,5,4,310
+Starbucks® Cold Brew Coffee with Milk,Cold Coffees,Trenta,70,2.5,10,80,6,6,5,360
+Pumpkin Cream Nitro Cold Brew,Cold Coffees,Tall,140,7,25,35,18,17,2,185
+Pumpkin Cream Nitro Cold Brew,Cold Coffees,Grande,250,12,40,55,31,31,3,265
+Nitro Cold Brew with Cinnamon Almondmilk Foam,Cold Coffees,Tall,35,1,0,25,6,5,0,190
+Nitro Cold Brew with Cinnamon Almondmilk Foam,Cold Coffees,Grande,40,1,0,35,7,6,1,275
+Nitro Cold Brew with Dark Cocoa Almondmilk Foam,Cold Coffees,Tall,30,1,0,25,4,3,1,195
+Nitro Cold Brew with Dark Cocoa Almondmilk Foam,Cold Coffees,Grande,40,1.5,0,35,6,4,1,280
+Nitro Cold Brew with Cinnamon Oatmilk Foam,Cold Coffees,Tall,40,1,0,20,6,5,1,190
+Nitro Cold Brew with Cinnamon Oatmilk Foam,Cold Coffees,Grande,50,1.5,0,30,7,6,1,275
+Starbucks Reserve® Nitro Cold Brew,Cold Coffees,Tall,5,0,0,10,0,0,0,215
+Starbucks Reserve® Nitro Cold Brew,Cold Coffees,Grande,5,0,0,10,0,0,0,280
+Salted Caramel Cream Nitro Cold Brew,Cold Coffees,Tall,160,10,30,240,17,17,2,200
+Salted Caramel Cream Nitro Cold Brew,Cold Coffees,Grande,230,14,45,330,23,23,2,270
+Nitro Cold Brew,Cold Coffees,Tall,5,0,0,10,0,0,0,215
+Nitro Cold Brew,Cold Coffees,Grande,5,0,0,10,0,0,0,280
+Nitro Cold Brew with Sweet Cream,Cold Coffees,Tall,70,5,15,15,4,4,1,200
+Nitro Cold Brew with Sweet Cream,Cold Coffees,Grande,70,5,15,20,4,4,1,265
+Iced Caffè Americano,Cold Coffees,Tall,10,0,0,10,1,0,1,150
+Iced Caffè Americano,Cold Coffees,Grande,15,0,0,15,2,0,1,225
+Iced Caffè Americano,Cold Coffees,Venti,15,0,0,20,3,0,1,300
+Iced Coffee,Cold Coffees,Tall,60,0,0,10,15,15,0,120
+Iced Coffee,Cold Coffees,Grande,80,0,0,10,20,20,0,165
+Iced Coffee,Cold Coffees,Venti,120,0,0,15,30,30,0,235
+Iced Coffee,Cold Coffees,Trenta,160,0,0,15,40,39,1,280
+Iced Coffee with Milk,Cold Coffees,Tall,80,1,5,30,17,17,2,90
+Iced Coffee with Milk,Cold Coffees,Grande,110,1.5,5,40,23,23,2,125
+Iced Coffee with Milk,Cold Coffees,Venti,170,2,10,65,35,35,4,170
+Iced Coffee with Milk,Cold Coffees,Trenta,230,3,10,80,46,46,5,190
+Starbucks Doubleshot® on Ice,Cold Coffees,Tall,80,1,5,35,14,13,3,150
+Starbucks Doubleshot® on Ice,Cold Coffees,Grande,100,1,5,40,20,18,3,225
+Starbucks Doubleshot® on Ice,Cold Coffees,Venti,170,2,5,55,33,29,4,375
+Iced Espresso,Cold Coffees,Solo,5,0,0,0,1,0,0,75
+Iced Espresso,Cold Coffees,Doppio,10,0,0,0,2,0,1,150
+Iced Espresso,Cold Coffees,Triple,15,0,0,0,3,0,1,225
+Iced Espresso,Cold Coffees,Quad,25,0,0,0,4,0,1,300
+Starbucks® Blonde Doubleshot® On Ice,Cold Coffees,Tall,NA,NA,NA,NA,NA,NA,NA,NA
+Starbucks® Blonde Doubleshot® On Ice,Cold Coffees,Grande,NA,NA,NA,NA,NA,NA,NA,NA
+Starbucks® Blonde Doubleshot® On Ice,Cold Coffees,Venti,NA,NA,NA,NA,NA,NA,NA,NA
+Nitro Flat White,Cold Coffees,Tall,180,9,30,120,15,14,9,130
+Nitro Flat White,Cold Coffees,Grande,230,12,35,160,19,17,12,195
+Iced Flat White,Cold Coffees,Tall,110,6,20,80,10,8,6,90
+Iced Flat White,Cold Coffees,Grande,150,8,25,110,13,11,8,130
+Iced Flat White,Cold Coffees,Venti,220,11,35,160,19,16,12,175
+Iced Almondmilk Honey Flat White with Starbucks® Blonde Espresso,Cold Coffees,Tall,100,2.5,0,70,20,17,1,150
+Iced Almondmilk Honey Flat White with Starbucks® Blonde Espresso,Cold Coffees,Grande,140,3.5,0,90,27,22,2,225
+Iced Almondmilk Honey Flat White with Starbucks® Blonde Espresso,Cold Coffees,Venti,200,5,0,130,40,33,3,300
+Iced Pumpkin Spice Latte,Cold Coffees,Tall,270,11,45,150,36,35,8,75
+Iced Pumpkin Spice Latte,Cold Coffees,Grande,370,15,60,190,48,46,11,150
+Iced Pumpkin Spice Latte,Cold Coffees,Venti,480,17,65,270,69,66,15,225
+Iced Coconutmilk Cascara Latte with Starbucks® Blonde Espresso,Cold Coffees,Tall,70,4,0,90,8,6,1,85
+Iced Coconutmilk Cascara Latte with Starbucks® Blonde Espresso,Cold Coffees,Grande,90,5,0,115,10,8,1,170
+Iced Coconutmilk Cascara Latte with Starbucks® Blonde Espresso,Cold Coffees,Venti,130,7,0,160,14,11,2,255
+Iced Oatmilk Honey Latte,Cold Coffees,Tall,160,5,0,90,27,19,2,75
+Iced Oatmilk Honey Latte,Cold Coffees,Grande,210,6,0,125,36,25,3,150
+Iced Oatmilk Honey Latte,Cold Coffees,Venti,300,9,0,160,52,37,4,225
+Iced Oatmilk Honey Latte with Starbucks® Blonde Espresso,Cold Coffees,Tall,160,5,0,90,27,19,2,85
+Iced Oatmilk Honey Latte with Starbucks® Blonde Espresso,Cold Coffees,Grande,210,6,0,125,36,25,3,170
+Iced Oatmilk Honey Latte with Starbucks® Blonde Espresso,Cold Coffees,Venti,300,9,0,160,52,37,4,255
+Starbucks Reserve® Iced Latte,Cold Coffees,Tall,150,8,25,105,12,11,8,135
+Starbucks Reserve® Iced Latte,Cold Coffees,Grande,210,11,35,150,17,16,11,135
+Starbucks Reserve® Iced Latte,Cold Coffees,Venti,290,15,45,200,24,22,15,265
+Starbucks Reserve® Iced Hazelnut Bianco Latte,Cold Coffees,Tall,210,10,20,95,23,20,8,85
+Starbucks Reserve® Iced Hazelnut Bianco Latte,Cold Coffees,Grande,280,13,25,120,30,26,10,165
+Starbucks Reserve® Iced Hazelnut Bianco Latte,Cold Coffees,Venti,390,18,40,170,41,37,14,200
+Iced Caffè Latte,Cold Coffees,Tall,100,3.5,15,90,10,9,6,75
+Iced Caffè Latte,Cold Coffees,Grande,130,4.5,20,115,13,11,8,150
+Iced Caffè Latte,Cold Coffees,Venti,180,6,25,160,18,15,12,225
+Iced Cinnamon Dolce Latte,Cold Coffees,Tall,240,11,40,90,30,28,6,75
+Iced Cinnamon Dolce Latte,Cold Coffees,Grande,290,12,40,115,39,36,8,150
+Iced Cinnamon Dolce Latte,Cold Coffees,Venti,420,17,60,160,56,52,11,225
+Iced Starbucks® Blonde Vanilla Latte,Cold Coffees,Tall,140,3,15,75,23,22,6,85
+Iced Starbucks® Blonde Vanilla Latte,Cold Coffees,Grande,190,4,15,100,30,28,7,170
+Iced Starbucks® Blonde Vanilla Latte,Cold Coffees,Venti,270,5,20,130,45,41,10,255
+Iced Cocoa Cloud Macchiato* (Contains eggs),Cold Coffees,Tall,130,3,10,100,21,18,4,75
+Iced Cocoa Cloud Macchiato* (Contains eggs),Cold Coffees,Grande,200,4.5,15,160,34,29,6,150
+Iced Cocoa Cloud Macchiato* (Contains eggs),Cold Coffees,Venti,250,6,20,210,42,36,8,225
+Iced Caramel Cloud Macchiato* (Contains eggs),Cold Coffees,Tall,120,3,10,75,20,17,3,75
+Iced Caramel Cloud Macchiato* (Contains eggs),Cold Coffees,Grande,190,4,15,115,32,28,5,150
+Iced Caramel Cloud Macchiato* (Contains eggs),Cold Coffees,Venti,240,5,20,160,41,35,8,225
+Iced Caramel Macchiato,Cold Coffees,Tall,180,5,20,110,26,24,7,75
+Iced Caramel Macchiato,Cold Coffees,Grande,250,7,25,150,37,34,10,150
+Iced Caramel Macchiato,Cold Coffees,Venti,350,9,35,200,53,49,13,225
+Iced Salted Caramel Mocha,Cold Coffees,Tall,330,13,40,240,48,41,7,95
+Iced Salted Caramel Mocha,Cold Coffees,Grande,450,18,55,320,64,55,9,175
+Iced Salted Caramel Mocha,Cold Coffees,Venti,590,21,60,420,91,77,12,265
+Iced Caffè Mocha,Cold Coffees,Tall,260,12,40,80,29,23,7,95
+Iced Caffè Mocha,Cold Coffees,Grande,350,17,55,100,39,30,10,175
+Iced Caffè Mocha,Cold Coffees,Venti,450,19,60,130,56,43,13,265
+Iced White Chocolate Mocha,Cold Coffees,Tall,310,14,45,150,38,37,8,75
+Iced White Chocolate Mocha,Cold Coffees,Grande,420,20,60,200,50,49,11,150
+Iced White Chocolate Mocha,Cold Coffees,Venti,560,23,65,280,73,71,15,225
+Starbucks Reserve® Iced Dark Chocolate Mocha,Cold Coffees,Tall,210,8,20,95,26,22,8,135
+Starbucks Reserve® Iced Dark Chocolate Mocha,Cold Coffees,Grande,260,10,25,115,33,28,10,135
+Starbucks Reserve® Iced Dark Chocolate Mocha,Cold Coffees,Venti,380,15,35,160,49,41,14,265
+Iced Guava Black Tea,Iced Teas,Tall,NA,NA,NA,NA,NA,NA,NA,NA
+Iced Guava Black Tea,Iced Teas,Grande,NA,NA,NA,NA,NA,NA,NA,NA
+Iced Guava Black Tea,Iced Teas,Venti,NA,NA,NA,NA,NA,NA,NA,NA
+Iced Guava Black Tea,Iced Teas,Trenta,NA,NA,NA,NA,NA,NA,NA,NA
+Guava Black Iced Tea Lemonade,Iced Teas,Tall,100,0,0,15,25,22,0,20
+Guava Black Iced Tea Lemonade,Iced Teas,Grande,130,0,0,20,33,29,0,25
+Guava Black Iced Tea Lemonade,Iced Teas,Venti,200,0,0,30,49,43,1,40
+Guava Black Iced Tea Lemonade,Iced Teas,Trenta,250,0,0,35,63,55,1,50
+Iced Black Tea,Iced Teas,Tall,30,0,0,5,8,8,0,20
+Iced Black Tea,Iced Teas,Grande,45,0,0,10,11,11,0,25
+Iced Black Tea,Iced Teas,Venti,60,0,0,15,16,16,0,40
+Iced Black Tea,Iced Teas,Trenta,70,0,0,20,19,19,0,50
+Iced Black Tea Lemonade,Iced Teas,Tall,70,0,0,5,17,16,0,20
+Iced Black Tea Lemonade,Iced Teas,Grande,90,0,0,10,23,22,0,25
+Iced Black Tea Lemonade,Iced Teas,Venti,130,0,0,15,34,33,0,40
+Iced Black Tea Lemonade,Iced Teas,Trenta,170,0,0,20,43,41,0,50
+Iced Royal English Breakfast Tea Latte,Iced Teas,Tall,100,2,5,50,19,19,3,40
+Iced Royal English Breakfast Tea Latte,Iced Teas,Grande,140,2.5,10,70,25,25,4,40
+Iced Royal English Breakfast Tea Latte,Iced Teas,Venti,210,3.5,15,100,37,37,6,40
+Iced London Fog Tea Latte,Iced Teas,Tall,100,2,5,50,19,19,3,40
+Iced London Fog Tea Latte,Iced Teas,Grande,140,2.5,10,70,25,25,4,40
+Iced London Fog Tea Latte,Iced Teas,Venti,210,3.5,15,100,37,37,6,40
+Iced Chai Tea Latte,Iced Teas,Tall,180,3,10,80,33,31,5,70
+Iced Chai Tea Latte,Iced Teas,Grande,240,4,15,110,44,42,7,95
+Iced Chai Tea Latte,Iced Teas,Venti,350,6,25,160,65,61,10,145
+Iced Peach Green Tea,Iced Teas,Tall,80,0,0,15,19,17,0,20
+Iced Peach Green Tea,Iced Teas,Grande,100,0,0,20,25,23,0,25
+Iced Peach Green Tea,Iced Teas,Venti,150,0,0,30,38,34,0,40
+Iced Peach Green Tea,Iced Teas,Trenta,190,0,0,35,48,43,0,50
+Iced Peach Green Tea Lemonade,Iced Teas,Tall,100,0,0,15,24,21,0,20
+Iced Peach Green Tea Lemonade,Iced Teas,Grande,130,0,0,20,31,29,0,25
+Iced Peach Green Tea Lemonade,Iced Teas,Venti,190,0,0,30,47,43,0,40
+Iced Peach Green Tea Lemonade,Iced Teas,Trenta,240,0,0,35,60,54,0,50
+Iced Matcha Green Tea Latte,Iced Teas,Tall,140,4,15,90,21,20,7,55
+Iced Matcha Green Tea Latte,Iced Teas,Grande,200,5,20,120,29,28,9,80
+Iced Matcha Green Tea Latte,Iced Teas,Venti,280,8,30,180,41,39,13,110
+Iced Green Tea,Iced Teas,Tall,30,0,0,5,8,8,0,20
+Iced Green Tea,Iced Teas,Grande,45,0,0,10,11,11,0,25
+Iced Green Tea,Iced Teas,Venti,60,0,0,15,16,16,0,40
+Iced Green Tea,Iced Teas,Trenta,70,0,0,20,19,19,0,50
+Iced Green Tea Lemonade,Iced Teas,Tall,70,0,0,5,17,16,0,20
+Iced Green Tea Lemonade,Iced Teas,Grande,90,0,0,10,23,22,0,25
+Iced Green Tea Lemonade,Iced Teas,Venti,140,0,0,15,34,33,0,40
+Iced Green Tea Lemonade,Iced Teas,Trenta,170,0,0,15,43,41,0,50
+Matcha Lemonade,Iced Teas,Tall,90,0,0,10,21,19,1,55
+Matcha Lemonade,Iced Teas,Grande,120,0,0,10,29,27,1,80
+Matcha Lemonade,Iced Teas,Venti,170,0,0,20,41,38,1,110
+Iced Passion Tango™ Tea,Iced Teas,Tall,30,0,0,5,8,8,0,0
+Iced Passion Tango™ Tea,Iced Teas,Grande,45,0,0,10,11,11,0,0
+Iced Passion Tango™ Tea,Iced Teas,Venti,60,0,0,15,16,16,0,0
+Iced Passion Tango™ Tea,Iced Teas,Trenta,70,0,0,20,19,19,0,0
+Iced Passion Tango® Tea Lemonade,Iced Teas,Tall,70,0,0,5,17,16,0,0
+Iced Passion Tango® Tea Lemonade,Iced Teas,Grande,90,0,0,10,23,22,0,0
+Iced Passion Tango® Tea Lemonade,Iced Teas,Venti,140,0,0,15,34,33,0,0
+Iced Passion Tango® Tea Lemonade,Iced Teas,Trenta,170,0,0,15,43,41,0,0
+Iced Guava Passionfruit Drink,Cold Drinks,Tall,140,2,0,60,31,25,1,0
+Iced Guava Passionfruit Drink,Cold Drinks,Grande,190,2.5,0,85,41,33,1,0
+Iced Guava Passionfruit Drink,Cold Drinks,Venti,290,4,0,125,61,49,1,0
+Iced Pineapple Matcha Drink,Cold Drinks,Tall,130,4,0,85,21,19,1,55
+Iced Pineapple Matcha Drink,Cold Drinks,Grande,170,5,0,115,30,27,2,80
+Iced Pineapple Matcha Drink,Cold Drinks,Venti,250,8,0,170,42,38,2,110
+Iced Golden Ginger Drink,Cold Drinks,Tall,100,4,0,90,16,14,0,0
+Iced Golden Ginger Drink,Cold Drinks,Grande,140,5,0,120,22,19,1,0
+Iced Golden Ginger Drink,Cold Drinks,Venti,200,8,0,180,31,28,1,0
+Star Drink,Cold Drinks,Tall,100,2,0,50,20,17,1,35
+Star Drink,Cold Drinks,Grande,130,2.5,0,65,26,22,1,45
+Star Drink,Cold Drinks,Venti,190,4,0,95,37,32,1,70
+Star Drink,Cold Drinks,Trenta,260,5,0,125,52,45,1,90
+Kiwi Starfruit Starbucks Refreshers® Beverage,Cold Drinks,Tall,70,0,0,10,17,14,0,35
+Kiwi Starfruit Starbucks Refreshers® Beverage,Cold Drinks,Grande,90,0,0,15,22,18,0,45
+Kiwi Starfruit Starbucks Refreshers® Beverage,Cold Drinks,Venti,130,0,0,20,31,27,0,70
+Kiwi Starfruit Starbucks Refreshers® Beverage,Cold Drinks,Trenta,180,0,0,25,43,37,1,90
+Kiwi Starfruit Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Tall,110,0,0,10,26,23,0,35
+Kiwi Starfruit Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Grande,140,0,0,10,34,30,0,45
+Kiwi Starfruit Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Venti,200,0,0,20,49,43,0,70
+Kiwi Starfruit Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Trenta,270,0,0,25,67,59,1,90
+Dragon Drink,Cold Drinks,Tall,100,2.5,0,45,20,18,1,35
+Dragon Drink,Cold Drinks,Grande,130,3,0,60,26,23,1,45
+Dragon Drink,Cold Drinks,Venti,190,4.5,0,90,37,33,1,70
+Dragon Drink,Cold Drinks,Trenta,270,6,0,115,51,45,1,90
+Mango Dragonfruit Starbucks Refreshers® Beverage,Cold Drinks,Tall,70,0,0,10,17,15,0,35
+Mango Dragonfruit Starbucks Refreshers® Beverage,Cold Drinks,Grande,90,0,0,15,21,19,0,45
+Mango Dragonfruit Starbucks Refreshers® Beverage,Cold Drinks,Venti,130,0,0,20,30,27,0,70
+Mango Dragonfruit Starbucks Refreshers® Beverage,Cold Drinks,Trenta,180,0.5,0,25,43,38,1,90
+Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Tall,110,0,0,10,26,23,0,35
+Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Grande,140,0,0,15,33,30,1,45
+Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Venti,200,0,0,20,48,44,1,70
+Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Trenta,280,0.5,0,25,67,60,1,90
+Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Tall,110,0,0,10,27,24,0,35
+Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Grande,140,0,0,15,35,32,0,45
+Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Venti,200,0,0,20,51,47,0,70
+Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Trenta,280,0,0,25,70,63,1,90
+Very Berry Hibiscus Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Tall,90,0,0,10,23,21,0,35
+Very Berry Hibiscus Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Grande,120,0,0,15,29,25,1,45
+Very Berry Hibiscus Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Venti,170,0,0,15,43,39,0,70
+Very Berry Hibiscus Lemonade Starbucks Refreshers® Beverage,Cold Drinks,Trenta,240,0,0,20,59,53,0,90
+Pink Drink,Cold Drinks,Tall,110,2,0,50,21,19,0,35
+Pink Drink,Cold Drinks,Grande,140,2.5,0,65,27,24,1,45
+Pink Drink,Cold Drinks,Venti,200,4,0,95,39,35,1,70
+Pink Drink,Cold Drinks,Trenta,270,5,0,130,55,48,1,90
+Strawberry Açaí Starbucks Refreshers® Beverage,Cold Drinks,Tall,80,0,0,10,18,16,0,35
+Strawberry Açaí Starbucks Refreshers® Beverage,Cold Drinks,Grande,90,0,0,15,23,20,0,45
+Strawberry Açaí Starbucks Refreshers® Beverage,Cold Drinks,Venti,130,0,0,20,33,30,0,70
+Strawberry Açaí Starbucks Refreshers® Beverage,Cold Drinks,Trenta,190,0,0,30,46,41,0,90
+Very Berry Hibiscus Starbucks Refreshers® Beverage,Cold Drinks,Tall,50,0,0,10,13,11,0,35
+Very Berry Hibiscus Starbucks Refreshers® Beverage,Cold Drinks,Grande,70,0,0,15,17,14,1,45
+Very Berry Hibiscus Starbucks Refreshers® Beverage,Cold Drinks,Venti,90,0,0,25,23,20,1,70
+Very Berry Hibiscus Starbucks Refreshers® Beverage,Cold Drinks,Trenta,130,0,0,30,33,28,1,90
+Starbucks Refreshers™ Blueberry Acai,Cold Drinks,12 fl oz,90,0,0,5,26,20,0,50
+Violet Drink,Cold Drinks,Tall,90,2,0,0,17,15,0,35
+Violet Drink,Cold Drinks,Grande,110,3,0,0,22,19,0,45
+Violet Drink,Cold Drinks,Venti,160,4,0,0,31,28,1,70
+Violet Drink,Cold Drinks,Trenta,230,6,0,0,44,39,1,90
+Evolution Fresh® Organic Vital Berry,Cold Drinks,11 fl oz,140,0,0,0,34,32,2,0
+Evolution Fresh® Organic Defense Up®,Cold Drinks,11 fl oz,170,0,0,0,41,37,2,0
+Evolution Fresh® Orange,Cold Drinks,11 fl oz,170,0,0,10,39,35,3,0
+Evolution Fresh® Organic Super Fruit Greens,Cold Drinks,11 fl oz,180,0,0,170,41,36,3,0
+Evolution Fresh® Watermelon,Cold Drinks,11 fl oz,130,0,0,10,29,25,2,0
+Tree Top Apple Juice Box,Cold Drinks,8 fl oz,120,0,0,25,29,26,0,0
+Lemonade,Cold Drinks,Kids,80,0,0,0,21,21,0,0
+Lemonade,Cold Drinks,Tall,80,0,0,10,21,19,0,0
+Lemonade,Cold Drinks,Grande,120,0,0,10,28,27,0,0
+Lemonade,Cold Drinks,Venti,160,0,0,15,40,38,0,0
+Lemonade,Cold Drinks,Trenta,200,0,0,20,48,45,0,0
+Blended Strawberry Lemonade,Cold Drinks,Tall,130,0,0,135,32,31,0,0
+Blended Strawberry Lemonade,Cold Drinks,Grande,190,0,0,200,46,45,0,0
+Blended Strawberry Lemonade,Cold Drinks,Venti,260,0,0,270,64,62,0,0
+Pineapple Coconut Green Smoothie,Cold Drinks,Grande,NA,NA,NA,NA,NA,NA,NA,NA
