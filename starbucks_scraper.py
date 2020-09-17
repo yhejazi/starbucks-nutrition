@@ -2,11 +2,11 @@ import requests as r
 import pandas as pd
 
 if __name__ == '__main__':
+    # Get drink menu json
     page = r.get("https://www.starbucks.com/bff/ordering/menu")
     drinks = next((x for x in page.json()['menus'] if x['name'] == 'Drinks'), None)
 
     result = []
-    test = drinks['children'][0]
 
     unwanted = ['Clover® Brewed Coffees', 'Coffee Travelers', 'Iced Clover® Brewed Coffees', 'Bottled Teas', 
         'Milk', 'Sparkling Water', 'Water'] # mostly packaged drinks
@@ -41,10 +41,11 @@ if __name__ == '__main__':
                             caffeine = additionalFacts[5]['value']
                         else:
                             calories = fat = cholesterol = sodium = carb = sugar = protein = caffeine = 'NA'
-
+                        # Append drink nutrition facts for the current size
                         result.append([drink_name, category, size, calories, fat, cholesterol, sodium, carb, sugar, protein, caffeine])
                     
         
+    # Write data to csv
     columnNames = ['drink_name', 'type', 'size', 'calories', 'fat', 'cholesterol', 'sodium', 'carb', 'sugar', 'protein', 'caffeine']
     df = pd.DataFrame(result, columns=columnNames)
 
