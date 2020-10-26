@@ -31,3 +31,6 @@ For the purpose of this analysis, I filtered the dataset to only include drinks 
 Why are we looking mostly at calories and sugar?
 
 According to [NPD’s Health Aspirations and Behavioral Tracking Service](https://www.npd.com/wps/portal/npd/us/news/press-releases/2020/new-year-new-nutrition-facts-label-on-food-most-us-consumers-read-the-nutrition-facts-label-and-the-top-items-they-look-for-are-sugars-and-calories/), the top two items consumers look for on nutrition labels are sugars and calories. I also want to discuss caffeine as it is in **over 85%** of items on the drinks menu, and it is a [hot topic](https://www.health.harvard.edu/staying-healthy/the-buzz-about-caffeine-and-health) in today’s nutrition and health discussions.
+
+## Daily Values
+Looking at g/mg values for all of the nutrition types doesn't tell us much because we cannot compare the amounts of each nutrition type with different scales. To standardize this, I included a comparison of nutrition values for each type to the daily suggested intake.
