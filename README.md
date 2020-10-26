@@ -2,6 +2,7 @@
 This repo contains a web scraper and an analysis report of Starbucks drink nutrition data.
 
 [Medium Post](https://medium.com/@yazihejazi/how-unhealthy-is-your-starbucks-drink-55b23ae371d6)
+
 [Notebook](https://yhejazi.github.io/starbucks-nutrition/)
 
 
